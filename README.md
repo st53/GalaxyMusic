@@ -52,13 +52,13 @@
 Use [String Session Generator](https://t.me/String_Session_Generator_robot) to get pyrogram string session or [repl](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
 ### Credits
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
+- [InukaASiTH](https://github.com/InukaAsith)
+- [Wrench](https://github.com/EverythingSuckz/)
+- [QueenArzoo](https://github.com/QueenArzoo)
+- [lucifeermorningstar](https://github.com/lucifeermorningstar)
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
 - [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [Anjana-Ma](https://github.com/Anjana-Ma)
+- [ImJanindu](https://github.com/ImJanindu)
+- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
