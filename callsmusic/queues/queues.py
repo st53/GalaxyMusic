@@ -1,3 +1,5 @@
+# This is a part of Galaxy Music © DeshadeethThisarana
+
 from asyncio import Queue, QueueEmpty as Empty
 from typing import Dict, Union
 
