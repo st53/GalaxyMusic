@@ -1,3 +1,4 @@
+# This is a part of Galaxy Music © DeshadeethThisarana 
 # Calls Music 1 - Telegram bot for streaming audio in group calls
 # Copyright (C) 2021  Roj Serbest
 
