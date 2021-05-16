@@ -1,3 +1,5 @@
+# This is a part of Galaxy Music © DeshadeethThisarana
+
 import asyncio
 
 from pyrogram import Client
